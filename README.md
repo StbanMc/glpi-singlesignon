@@ -1,3 +1,18 @@
+> ## ⚠️ About this fork
+>
+> **Archived. Not under active development.**
+>
+> This is a fork of [edgardmessias/glpi-singlesignon](https://github.com/edgardmessias/glpi-singlesignon).
+> It was used to prototype the fix for issue
+> [edgardmessias/glpi-singlesignon#160](https://github.com/edgardmessias/glpi-singlesignon/issues/160)
+> (Azure provider attachment corruption in GLPI 11). The fix was merged
+> upstream and released as part of the plugin's `v2.0.2`. From that point
+> on this fork no longer adds anything on top of upstream and is archived.
+>
+> **For the active project go to:** [edgardmessias/glpi-singlesignon](https://github.com/edgardmessias/glpi-singlesignon)
+>
+> ---
+>
 # Single Sign-On for GLPI
 
 ![Lint](https://github.com/edgardmessias/glpi-singlesignon/workflows/Lint/badge.svg)
